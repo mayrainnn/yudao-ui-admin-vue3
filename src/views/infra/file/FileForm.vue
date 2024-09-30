@@ -13,7 +13,7 @@
       :on-exceed="handleExceed"
       :on-success="submitFormSuccess"
       :http-request="httpRequest"
-      accept=".jpg, .png, .gif"
+      accept=".jpg, .png, .gif, .pptx"
       drag
     >
       <i class="el-icon-upload"></i>
